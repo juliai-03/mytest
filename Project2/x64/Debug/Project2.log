@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Julia Ivanova\source\repos\Project2\Project2\Source.cpp(22,7): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Julia Ivanova\source\repos\Project2\Project2\Source.cpp(135,34): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Project2.vcxproj -> C:\Users\Julia Ivanova\source\repos\Project2\x64\Debug\Project2.exe
